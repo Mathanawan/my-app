@@ -9,5 +9,4 @@
 
 ## สร้างโดย
 
-* [มัทนาวัลย์ พูลสวัสดิ์] (https://www.facebook.com/jajalovejang)
-
+* [มัทนาวัลย์ พูลสวัสดิ์] (https://web.facebook.com/jajalove?_rdr)
